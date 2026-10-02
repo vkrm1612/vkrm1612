@@ -13,7 +13,7 @@
 
 ---
 
-> "Measure what is measurable, and make measurable what is not."
+> "Measure the measurands, and make measurable what is not."
 > — Galileo Galilei
 
 ---
